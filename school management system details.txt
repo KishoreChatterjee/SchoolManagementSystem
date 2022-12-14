@@ -1,0 +1,6 @@
+SCHOOL MANAGEMENT SYSTEM LOGIN PAGE DETAILS:
+Username = admin
+Password = admin
+
+SCHOOL MANAGEMENT SYSTEM DATABASE DETAILS:
+http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=school&table=student
